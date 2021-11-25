@@ -1,0 +1,65 @@
+#backgroundy {
+	background-image: url(images/kumu.png) repeat 0 0;
+	background-position: center;
+	background-size: 80% 80%;
+	background-repeat: no-repeat;
+}
+
+.background_colour {
+	background-color: #71CD9F;
+}
+
+.background_mo {
+	background-image: url('images/roberts.png');
+	width: 560px;
+	height: 330px;
+}
+
+.tr_total {
+	height: 2px;
+	color: blue;
+	text-align: right;
+	font-weight: bold;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+}
+
+.tr_blue {
+	color: blue;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.td_red {
+	color: red;
+	font-weight: bold;
+}
+
+.td_left {
+	text-align: left;
+	/* font-weight: bold; */
+	/* color: black; */
+}
+
+.tr_right {
+	text-align: right;
+}
+
+.grand_total {
+	font-weight: bold;
+	background-color: #c4d79b;
+	color: black;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	text-align: right;
+}
+
+.tr_header {
+	text-align: center;
+	color: red;
+	text-decoration: underline;
+}
+
+.td_center {
+	text-align: center;
+}
